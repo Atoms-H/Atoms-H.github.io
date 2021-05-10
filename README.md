@@ -18,7 +18,7 @@ struct SegmentTree
 {
     int l,r;
     int dat;
-}t[N * 4];
+}t`[N*2]`;
 
 //建树
 void build(int p,int l,int r)//当前节点，节点代表的区间[l,r]
