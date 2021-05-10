@@ -3,11 +3,9 @@
 Hi! This is AtomsH.
 (You may ask why I am called this name. Emmm... There seems to be some reasons, but I'm not going to tell you :)
 My native language is not English, so I might make a grammatical mistake.
-
-## Learning Task of the Week: SegmentTree
-
 (好了，英语不会了，写不下去了，用中文+-+)
 
+## 🎲本周学习任务：线段树
 
 ### 模版
 查找区间最大值
