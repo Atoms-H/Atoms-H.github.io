@@ -13,6 +13,6 @@ My native language is not English, so I might make a grammatical mistake.
 ### 模版
 查找区间最大值
 
-<img src="https://user-images.githubusercontent.com/52187003/117684833-f4598000-b1e7-11eb-9238-36c9055ad941.png" width="70%">
+<img src="https://user-images.githubusercontent.com/52187003/117684833-f4598000-b1e7-11eb-9238-36c9055ad941.png" width="80%">
 
 END
